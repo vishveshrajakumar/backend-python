@@ -3,5 +3,15 @@
         "id": 103,
         "name": "Kumar",
         "department": "IT"
+    },
+    {
+        "id": 201,
+        "name": "Machii",
+        "department": "CSE"
+    },
+    {
+        "id": 202,
+        "name": "Arun",
+        "department": "ECE"
     }
 ]
